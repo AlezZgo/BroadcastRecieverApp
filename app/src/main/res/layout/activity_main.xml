@@ -10,9 +10,16 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:text="@string/static_broadcast_reciever" />
+
+    <Button
+        android:id="@+id/button_bcr_with_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/broadcast_reciever_with_declaration" />
 
 </LinearLayout>

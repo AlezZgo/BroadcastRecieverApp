@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BroadcastRecieverApp</string>
     <string name="static_broadcast_reciever">static broadcast reciever</string>
+    <string name="broadcast_reciever_with_declaration">broadcast_reciever_with_declaration</string>
 </resources>
