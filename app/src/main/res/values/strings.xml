@@ -2,4 +2,7 @@
     <string name="app_name">BroadcastRecieverApp</string>
     <string name="static_broadcast_reciever">static broadcast reciever</string>
     <string name="broadcast_reciever_with_declaration">broadcast_reciever_with_declaration</string>
+    <string name="broadcast_receiver_with_declaration">broadcast_receiver_with_declaration</string>
+    <string name="static_broadcast_receiver">static_broadcast_receiver</string>
+    <string name="local_broadcastreceiver">local broadcastReceiver</string>
 </resources>
